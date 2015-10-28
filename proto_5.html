@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="content-script-type" content="text/javascript">
+        <title>A test of UVC-BackMirror</title>
+        <style>
+            body {background-color: #000;}
+            img#gum-local {
+                position: fixed;
+                left: 0;
+                top: 0;
+                max-width: 100%;
+                max-height: 100%;
+                width: 100%;
+                height: 100%;
+                z-index: -100;
+                background-size: cover;
+                transform: rotateY(180deg);
+                -webkit-transform:rotateY(180deg);-moz-transform:rotateY(180deg);-ms-transform:rotateY(180deg);
+            }
+            h1, h2 {
+                text-shadow:0px 2px 2px #fff,0px 0px 2px #fff,2px 0px 2px #fff,0px -2px 2px #fff,-2px -2px 2px #fff,-2px 0px 2px #fff;
+                text-align: center;
+                color: #039;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Rear-view camera DEMO</h1>
+        <h2>i-collaboration Kobe</h2>
+        
+        <img id="gum-local" src="http://192.168.7.22:8081">
+        <div id="errorMsg"></div>
+    </body>
+</html>
