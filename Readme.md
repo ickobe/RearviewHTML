@@ -1,6 +1,6 @@
 # The Rearview Camera System (RCS) for wheelchair users!
 
-[日本語記事はこちら](index.html)
+[日本語記事はこちら](index.md)
 
 ## What is this?
 
