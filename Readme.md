@@ -24,7 +24,7 @@ We're aiming to realize products for wheel chair users; Backup camera, Emergency
 
 ## Setup (with pre-installed SD cards)
 
-Please wait the information of what you should do to start setup without pre-installed SD card.
+Please wait the information what you should do to start setup without pre-installed SD card.
 
 1. Link TFT monitor in Raspberry Pi's GPIO (see also: [「ラズパイマガジン2015年春号（第4部, PART1）」(in Japanese)](http://itpro.nikkeibp.co.jp/atcl/mag/14/236763/010900005/)).
 2. Insert Pre-installed SD Card (customized Raspbian). 
