@@ -1,5 +1,7 @@
 # The Rearview Camera System (RCS) for wheelchair users!
 
+[日本語記事はこちら](index.html)
+
 ## What is this?
 
 You can make a hand-maid RCS with this document.
