@@ -17,6 +17,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+assembly/node_modules/*
 *.log
 *.p12
 test
